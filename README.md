@@ -25,4 +25,4 @@ I have a better understanding of CSS Grid while I was doing this project.
 
 
 ### Acknowledgments
-This [YouTube Tutorial](https://www.youtube.com/watch?v=0O3yFSEujrw) was amazing and very detaild explain everything step by step.
+This [YouTube Tutorial](https://www.youtube.com/watch?v=0O3yFSEujrw) was amazing and very detailed explain everything step by step.
